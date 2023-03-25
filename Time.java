@@ -1,7 +1,4 @@
-/*
- * Jude Assaeedi.
- * 442007723
- */
+
 package testhealthcategorie;
 
 public class Time {
